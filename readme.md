@@ -16,3 +16,5 @@ https://www.bsdcan.org/2006/papers/jemalloc.pdf
 Glibc
 https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/
 http://www.cs.cmu.edu/afs/cs/academic/class/15213-s11/www/lectures/20-allocation-advanced.pdf
+Good stuff
+http://www.cs.cmu.edu/afs/cs/academic/class/15213-s11/www/lectures/20-allocation-advanced.pdf
