@@ -1,3 +1,8 @@
+## features
+    splitting
+    coalesing
+    
+
 ## data structure
     balanced binrary trees
     splay trees
@@ -22,3 +27,5 @@ http://www.cs.cmu.edu/afs/cs/academic/class/15213-s11/www/lectures/20-allocation
 
 Good stuff
 http://www.cs.cmu.edu/afs/cs/academic/class/15213-s11/www/lectures/20-allocation-advanced.pdf
+
+
